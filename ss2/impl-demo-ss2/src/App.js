@@ -18,7 +18,7 @@ function App() {
         },
         {
             id: 3,
-            name :"HaiTT",
+            name :"HaiT4",
             address : "QN",
             point: 9
         }]
